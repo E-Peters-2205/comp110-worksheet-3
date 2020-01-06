@@ -21,3 +21,4 @@ Loop until game ends:
       END
 ```
 
+![Flowchart](https://github.com/E-Peters-2205/comp110-worksheet-4/blob/master/2A.PNG?raw=true)
